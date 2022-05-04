@@ -7,7 +7,7 @@ backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
 ---
 
-![bg left 100%](resources/git-logo.png)
+![bg left 100%](resources/git-logo.svg)
 
 # **Git**
 
