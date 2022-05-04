@@ -1,0 +1,13 @@
+{
+  "name": "git-slides",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "serve": "marp -s ./slides",
+    "watch": "marp -w ./slides",
+    "build": "marp ./slides"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "^1.7.2"
+  }
+}
